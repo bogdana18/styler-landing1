@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url("../fonts/SU3k9Mf8VI7q.woff2") format('woff2'),
+        url("../fonts/2u39Joeuyv3W.woff") format('woff'),
+        url("../fonts/QBSWjb8OLoLa.ttf") format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url("../fonts/OpNPMkUQJixF.woff2") format('woff2'),
+        url("../fonts/6VQcRIHGLEYz.woff") format('woff'),
+        url("../fonts/ENrtPrRUiuBk.ttf") format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url("../fonts/vOJ9SQ0tISkp.woff2") format('woff2'),
+        url("../fonts/9KLEehn5U0oB.woff") format('woff'),
+        url("../fonts/xD2jeHMZtYWk.ttf") format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url("../fonts/L54J7yfBOCqD.woff2") format('woff2'),
+        url("../fonts/HDADJomRsRha.woff") format('woff'),
+        url("../fonts/B778Zi2XPvnj.ttf") format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
